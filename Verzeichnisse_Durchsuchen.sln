@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verzeichnisse_Durchsuchen", "Encrypter Base\Verzeichnisse_Durchsuchen.csproj", "{F9A88DBD-FF5A-44D3-9C8B-CAE05217B89E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableToOpenEncryptedData", "DisableToOpenEncryptedData\DisableToOpenEncryptedData.csproj", "{107BCA19-1706-41EC-8AF7-04C2B345ADC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraverseFileSystem", "TraverseFileSystem\TraverseFileSystem.csproj", "{5F749D33-CF94-464E-B5B5-EF0E0491F2E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A88DBD-FF5A-44D3-9C8B-CAE05217B89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A88DBD-FF5A-44D3-9C8B-CAE05217B89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A88DBD-FF5A-44D3-9C8B-CAE05217B89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A88DBD-FF5A-44D3-9C8B-CAE05217B89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107BCA19-1706-41EC-8AF7-04C2B345ADC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107BCA19-1706-41EC-8AF7-04C2B345ADC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107BCA19-1706-41EC-8AF7-04C2B345ADC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107BCA19-1706-41EC-8AF7-04C2B345ADC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F749D33-CF94-464E-B5B5-EF0E0491F2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F749D33-CF94-464E-B5B5-EF0E0491F2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F749D33-CF94-464E-B5B5-EF0E0491F2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F749D33-CF94-464E-B5B5-EF0E0491F2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D6ABC4A-1A0E-4A48-BE25-FC8706D9C5A8}
+	EndGlobalSection
+EndGlobal
